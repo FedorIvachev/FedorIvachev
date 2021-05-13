@@ -1,8 +1,6 @@
-### Hi there 👋
+### 👋 Studying in Tsinghua University, HCI Lab.
 
-Studying in Tsinghua University, HCI Lab.
-
-[MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
+## [MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
 
 <!--
 **FedorIvachev/FedorIvachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
