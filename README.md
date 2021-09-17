@@ -1,4 +1,4 @@
-### 👋 Studying in Tsinghua University, HCI Lab.
+### 👋 PhD in Tsinghua University, HCI Lab.
 
 ## [MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
 
