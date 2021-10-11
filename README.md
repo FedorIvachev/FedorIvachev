@@ -2,6 +2,9 @@
 
 ## [MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=FedorIvachev&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/FedorIvachev)
+
+
 <!--
 **FedorIvachev/FedorIvachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
