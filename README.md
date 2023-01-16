@@ -2,6 +2,9 @@
 
 ## [MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
 
+- 🔭 I’m currently working on recognition of head movements using IMU
+- 🌱 I’m currently learning Chinese and how to implement ML/DL
+
 <!--
 [![My stats](https://github-readme-stats.vercel.app/api?username=FedorIvachev&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/FedorIvachev)
 -->
