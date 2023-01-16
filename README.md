@@ -1,6 +1,6 @@
 ### 👋 PhD in Tsinghua University, HCI Lab.
 
-## [MY CV](https://github.com/FedorIvachev/cv/blob/master/CV.pdf)
+## [MY CV](https://fedorivachev.github.io/cv/CV.pdf)
 
 - 🔭 I’m currently working on recognition of head movements using IMU
 - 🌱 I’m currently learning Chinese and how to implement ML/DL
